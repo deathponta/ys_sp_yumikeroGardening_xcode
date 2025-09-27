@@ -11,7 +11,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>en</string>
     <key>CFBundleDisplayName</key>
-    <string>ゆみけろガーデニング</string>
+    <string>YumikeroGardening</string>
     <key>CFBundleExecutable</key>
     <string>${EXECUTABLE_NAME}</string>
     <key>CFBundleIdentifier</key>
@@ -28,14 +28,6 @@
     <string>0</string>
     <key>LSRequiresIPhoneOS</key>
     <true />
-    <key>NSCameraUsageDescription</key>
-    <string>This app requires camera access.</string>
-    <key>NSLocationWhenInUseUsageDescription</key>
-    <string>This app uses your location while the app is in use.</string>
-    <key>NSMicrophoneUsageDescription</key>
-    <string>This app requires microphone access.</string>
-    <key>NSPhotoLibraryUsageDescription</key>
-    <string>This app requires access to the photo library.</string>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen-iPhone</string>
     <key>UILaunchStoryboardName~ipad</key>
