@@ -1,0 +1,2 @@
+# 大容量ライブラリ／バイナリ類
+*.a filter=lfs diff=lfs merge=lfs -text

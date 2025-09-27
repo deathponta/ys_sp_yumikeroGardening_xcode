@@ -1,0 +1,20 @@
+# Xcode ビルドキャッシュ / 一時ファイル
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# Xcode ワークスペース内のユーザー固有データ
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# OS やツールの不要ファイル
+.DS_Store
+Thumbs.db
+
+# Carthage / SwiftPM (Unity案件ではあまり使わないが念のため)
+Carthage/Build/
+.swiftpm/
